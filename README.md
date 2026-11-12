@@ -16,8 +16,9 @@ A system that enables users to book the most sutable flights and hotels all over
 4. Flights companies
 5. Hotels companies
 6. Tickts
-7. Payment ways
-8. Notification systems e.g email and sms
+7. Payment integration
+8. Status tracking
+9. Notification systems e.g email and sms
 
 ## Features and Functions 
 ### 1. Authentication
